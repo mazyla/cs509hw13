@@ -1,0 +1,14 @@
+/Users/mariozyla/Documents/CS509/hw13/Homework13/bin/Debug/net8.0/Homework13
+/Users/mariozyla/Documents/CS509/hw13/Homework13/bin/Debug/net8.0/Homework13.deps.json
+/Users/mariozyla/Documents/CS509/hw13/Homework13/bin/Debug/net8.0/Homework13.runtimeconfig.json
+/Users/mariozyla/Documents/CS509/hw13/Homework13/bin/Debug/net8.0/Homework13.dll
+/Users/mariozyla/Documents/CS509/hw13/Homework13/bin/Debug/net8.0/Homework13.pdb
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/Homework13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/Homework13.AssemblyInfoInputs.cache
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/Homework13.AssemblyInfo.cs
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/Homework13.csproj.CoreCompileInputs.cache
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/Homework13.dll
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/refint/Homework13.dll
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/Homework13.pdb
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/Homework13.genruntimeconfig.cache
+/Users/mariozyla/Documents/CS509/hw13/Homework13/obj/Debug/net8.0/ref/Homework13.dll
